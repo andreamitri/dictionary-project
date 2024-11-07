@@ -9,8 +9,17 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
+
         <footer className="App-footer">
-          <small>Coded by Andrea</small>
+          <small>
+            This project was coded by Andrea Mitri and is{" "}
+            <a
+              href="https://github.com/andreamitri/react-weather-app"
+              target="blank"
+            >
+              open-sourced on GitHub.
+            </a>
+          </small>
         </footer>
       </div>
     </div>
