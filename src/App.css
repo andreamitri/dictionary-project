@@ -1,9 +1,9 @@
 body {
-  background: #f9f8fe;
+  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
 }
 
 a {
-  color: #9670f4;
+  color: #876464;
 }
 
 .App-header {
